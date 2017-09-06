@@ -1,0 +1,10 @@
+C:\Users\Pevaar9\Desktop\Work\entrega\bin\Debug\netcoreapp2.0\entrega.deps.json
+C:\Users\Pevaar9\Desktop\Work\entrega\bin\Debug\netcoreapp2.0\entrega.runtimeconfig.json
+C:\Users\Pevaar9\Desktop\Work\entrega\bin\Debug\netcoreapp2.0\entrega.runtimeconfig.dev.json
+C:\Users\Pevaar9\Desktop\Work\entrega\bin\Debug\netcoreapp2.0\entrega.dll
+C:\Users\Pevaar9\Desktop\Work\entrega\bin\Debug\netcoreapp2.0\entrega.pdb
+C:\Users\Pevaar9\Desktop\Work\entrega\obj\Debug\netcoreapp2.0\entrega.csproj.CoreCompileInputs.cache
+C:\Users\Pevaar9\Desktop\Work\entrega\obj\Debug\netcoreapp2.0\entrega.AssemblyInfoInputs.cache
+C:\Users\Pevaar9\Desktop\Work\entrega\obj\Debug\netcoreapp2.0\entrega.AssemblyInfo.cs
+C:\Users\Pevaar9\Desktop\Work\entrega\obj\Debug\netcoreapp2.0\entrega.dll
+C:\Users\Pevaar9\Desktop\Work\entrega\obj\Debug\netcoreapp2.0\entrega.pdb
